@@ -146,3 +146,7 @@
 #### Name: [Vladimir Chmykov](https://github.com/v-chmykov)
 - Bio: Slapping the keyboard until something good happens
 - Programming Language: PHP, JS, Python
+
+#### Name: [Abhinav Dixit](https://github.com/abhinav23dixit)
+- Bio: enthusiast developer at heart who loves to create anything new every time.
+- Programming Language: C,C++, Java, Python
