@@ -147,6 +147,6 @@
 - Bio: Slapping the keyboard until something good happens
 - Programming Language: PHP, JS, Python
 
-#### Name: [Abhinav Dixit](https://github.com/v-chmykov)
-- Bio: ENTHUSIAST DEVELOPER TO CREATE ANYTHING NEW EVERY TIME
+#### Name: [Abhinav Dixit](https://github.com/abhinav23dixit)
+- Bio: enthusiast developer at heart who loves to create anything new every time.
 - Programming Language: C,C++, Java, Python
