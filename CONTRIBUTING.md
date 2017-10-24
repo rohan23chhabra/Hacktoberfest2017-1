@@ -147,6 +147,10 @@
 - Bio: Slapping the keyboard until something good happens
 - Programming Language: PHP, JS, Python
 
+#### Name: [Amrendra Jha](https://github.com/CodeBuddyKira)
+- Bio: A noob in github
+- Programming Language: C, C++, Java
+
 #### Name: [Anshul Kishore](https://github.com/anshulkishore)
 - Bio: Computer Science student at Motilal Nehru National Institute of Technology, Allahabad
 - Programming Language: C, C++, Java
@@ -154,3 +158,4 @@
 #### Name: [Abhinav Dixit](https://github.com/abhinav23dixit)
 - Bio: enthusiast developer at heart who loves to create anything new every time.
 - Programming Language: C,C++, Java, Python
+
