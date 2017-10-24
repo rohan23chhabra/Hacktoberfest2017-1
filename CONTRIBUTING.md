@@ -146,3 +146,7 @@
 #### Name: [Vladimir Chmykov](https://github.com/v-chmykov)
 - Bio: Slapping the keyboard until something good happens
 - Programming Language: PHP, JS, Python
+
+#### Name: [Anshul Kishore](https://github.com/anshulkishore)
+- Bio: Computer Science student at Motilal Nehru National Institute of Technology, Allahabad
+- Programming Language: C, C++, Java
