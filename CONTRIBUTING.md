@@ -146,3 +146,8 @@
 #### Name: [Vladimir Chmykov](https://github.com/v-chmykov)
 - Bio: Slapping the keyboard until something good happens
 - Programming Language: PHP, JS, Python
+
+
+#### Name: [Amrendra Jha](https://github.com/CodeBuddyKira)
+- Bio: A noob in github
+- Programming Language: C, C++, Java
