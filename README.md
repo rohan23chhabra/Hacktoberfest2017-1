@@ -54,7 +54,7 @@ Like this one:
 
 LANGUAGE: Javascript
 ENV: Node.js
-AUTHOR: Moji Tavoni
+AUTHOR: Abhey Rana
 GITHUB: https://github.com/Abhey
 
 console.log('Hello, Github world Let's start a wonderful Coding!');
