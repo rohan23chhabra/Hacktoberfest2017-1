@@ -1,15 +1,3 @@
-[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-
-سلام با یک کمک از دوست خوبمون شروع میکنم یک سری به این لینک پایین بزنید
-
-+ http://bit.ly/2zpixMZ
-
-فراموش نکنید نگاهی هم به قسمت مسائل صفحه من بندازین میدونم که به راحتی از پسشون بر میاد به امید یه دنیای بدون مرز
-
-خوش بگذره
-
-
 ## HacktoberFest Starter Project
 
 Use this project to make your first contribution to an open source project on GitHub. Practice making your first Pull Request to a public repository before doing the real thing!
