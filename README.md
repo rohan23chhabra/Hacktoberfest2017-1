@@ -26,7 +26,7 @@ Choose one or all 2, make a Pull Request for your work, wait for it to be merged
 
 Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
 Clone your fork down to your local machine
-git clone https://github.com/mojtabatmj/Hacktoberfest2017.git
+git clone https://github.com/Abhey/Hacktoberfest2017.git
 Create a branch
 git checkout -b branch-name
 Make your changes (Choose from any task below)
@@ -55,7 +55,7 @@ Like this one:
 LANGUAGE: Javascript
 ENV: Node.js
 AUTHOR: Moji Tavoni
-GITHUB: https://github.com/Mojtabatmj
+GITHUB: https://github.com/Abhey
 
 console.log('Hello, Github world Let's start a wonderful Coding!');
 
